@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -82,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vatsalgohel8/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
